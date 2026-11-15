@@ -5,5 +5,5 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,tailwind,css,html,nodejs,nestjs,git,github,figma&theme=dark" />
 </p>
 <p align="center">
-  <a href="https://github.com/asxnah/RESUME">RESUME</a>
+  <a href="https://github.com/qurvyl/RESUME">RESUME</a>
 </p>
